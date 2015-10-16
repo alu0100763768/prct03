@@ -1,3 +1,20 @@
 Respuestas a las preguntas de la práctica 3
 1.-¿Cuál es el propósito de trabajar con múltiples ramas?
 El propósito de trabajar con múltiples ramas es la posibilidad de desarrollar varias versiones paralelamente, sin necesidad de modificar la version final hasta que una vez terminadas de desarrollar las otras versiones se decida integrar o no en la final.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.-¿Cuál es la ventaja de reorganizar(rebase)?
